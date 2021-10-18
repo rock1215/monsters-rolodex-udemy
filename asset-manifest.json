@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rock1215.github.io/monsters-rolodex-udemy/static/css/main.3ec0e6cb.chunk.css",
+    "main.js": "/rock1215.github.io/monsters-rolodex-udemy/static/js/main.3a6c6f8d.chunk.js",
+    "main.js.map": "/rock1215.github.io/monsters-rolodex-udemy/static/js/main.3a6c6f8d.chunk.js.map",
+    "runtime-main.js": "/rock1215.github.io/monsters-rolodex-udemy/static/js/runtime-main.241d9be3.js",
+    "runtime-main.js.map": "/rock1215.github.io/monsters-rolodex-udemy/static/js/runtime-main.241d9be3.js.map",
+    "static/js/2.dbdc1f2b.chunk.js": "/rock1215.github.io/monsters-rolodex-udemy/static/js/2.dbdc1f2b.chunk.js",
+    "static/js/2.dbdc1f2b.chunk.js.map": "/rock1215.github.io/monsters-rolodex-udemy/static/js/2.dbdc1f2b.chunk.js.map",
+    "static/js/3.5302c058.chunk.js": "/rock1215.github.io/monsters-rolodex-udemy/static/js/3.5302c058.chunk.js",
+    "static/js/3.5302c058.chunk.js.map": "/rock1215.github.io/monsters-rolodex-udemy/static/js/3.5302c058.chunk.js.map",
+    "index.html": "/rock1215.github.io/monsters-rolodex-udemy/index.html",
+    "static/css/main.3ec0e6cb.chunk.css.map": "/rock1215.github.io/monsters-rolodex-udemy/static/css/main.3ec0e6cb.chunk.css.map",
+    "static/js/2.dbdc1f2b.chunk.js.LICENSE.txt": "/rock1215.github.io/monsters-rolodex-udemy/static/js/2.dbdc1f2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.241d9be3.js",
+    "static/js/2.dbdc1f2b.chunk.js",
+    "static/css/main.3ec0e6cb.chunk.css",
+    "static/js/main.3a6c6f8d.chunk.js"
+  ]
+}
